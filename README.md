@@ -7,3 +7,6 @@
 - SkelTest : Skeleton decomposition error estimation
 - imgCompGrey : Grayscale image compression
 - imgCompColor : Color image compression
+
+### Sources
+Images taken from Unsplash, Wallpaper Cave, Wallpaper Flare websites.
